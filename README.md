@@ -16,7 +16,6 @@
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 Leaderboard ](#-leaderboard-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -40,14 +39,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
-- [Live Demo Link](https://amanworku.github.io/Awesome-Books-Refactor-ES6/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -67,7 +58,7 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
-- git clone https://github.com/lawrahkonwea/Awesome-Book.git
+- git clone https://github.com/AmanWorku/Leaderboard.git
 - Run it using a web browser
 
 
@@ -87,7 +78,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/AmanWorku/Awesome-Books-Refactor-ES6/issues).
+Feel free to check the [issues page](https://github.com/AmanWorku/Leaderboard/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
