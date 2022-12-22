@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500&display=swap" rel="stylesheet">
+    <title>Leaderboard</title>
+<script defer src="runtime.js"></script><script defer src="bundle.js"></script></head>
+<body>
+    <h1 class="main-title">Leaderboard</h1>
+    <main>
+        <section class="left-board">
+<div class="board-refresh">
+<h2>Recent Scores</h2>
+<button class="refresh">Refresh</button>
+</div>
+<table class="board-table">
+    <tbody class="score-container">
+    </tbody>
+</table>
+        </section>
+        <section class="right-board">
+        <h2>Add your score</h2>
+        <form>
+            <input type="text" class="username" placeholder="Your name" required>
+            <input type="number" class="score" placeholder="Your score" required>
+            <input type="submit" value="Submit" class="submit">
+        </section>
+    </main>
+</body>
+</html>
